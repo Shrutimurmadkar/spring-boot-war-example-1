@@ -6,7 +6,7 @@
 
   <groupId>com.springhow.example</groupId>
   <artifactId>hello-world</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>hello-world</name>
@@ -45,7 +45,7 @@
         <snapshotRepository>
           <id>genpact</id>
           <name>minjtech Snapshot Nexus Repository </name>
-           <url>http://34.72.244.65:8081/repository/shruti_snapshot/</url>
+           <url>http://34.122.112.160:8081/repository/shruti_snapshot/</url>
         </snapshotRepository>
    </distributionManagement>
 
