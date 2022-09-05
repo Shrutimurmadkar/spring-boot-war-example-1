@@ -45,7 +45,7 @@
         <snapshotRepository>
           <id>genpact</id>
           <name>minjtech Snapshot Nexus Repository </name>
-           <url>http://34.122.112.160:8081/repository/shruti_snapshot/</url>
+           <url>http://35.223.65.175:8081/repository/shruti_snapshot/</url>
         </snapshotRepository>
    </distributionManagement>
 
